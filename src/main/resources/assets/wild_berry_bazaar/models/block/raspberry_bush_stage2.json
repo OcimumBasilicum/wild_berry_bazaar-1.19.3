@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "wild_berry_bazaar:block/raspberry_bush_stage2"
+  }
+}
